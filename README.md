@@ -8,6 +8,13 @@ cd $HOME && git clone https://github.com/KafTeam/kaf && cd kaf && chmod +x kaf.s
 
 
 
+
+
+
+
+
+
+
 توسئه دهندگان
 
 @RAMIN2373
