@@ -2,7 +2,7 @@
 
 راهنمای نصب
 
-cd $HOME && git clone https://github.com/KafTeam/kaf && cd kaf && chmod +x kaf.sh && ./kaf.sh install && ./kaf.sh
+cd $HOME && git clone https://github.com/SpArTiapi/arslan && cd arslan && chmod +x kaf.sh && ./kaf.sh install && ./kaf.sh
 
 بصورت یکجا در ترمینال وارد کنید
 
