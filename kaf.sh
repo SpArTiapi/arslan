@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-cd $HOME/kaf
+cd $HOME/arslan
 
 install() {
 	    cd libs
